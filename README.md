@@ -14,4 +14,3 @@ Enter format into command line:
 
 - <# points to spend> should be a positive integer
 
-- <name of CSV file> should be a file name ending in .csv containing 'transaction' data to use points on

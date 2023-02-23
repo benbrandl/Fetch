@@ -12,6 +12,6 @@ Enter format into command line:
 
     python3 points.py <# points to spend> <name of CSV file>
 
-<# points to spend> should be a positive integer
+- <# points to spend> should be a positive integer
 
-<name of CSV file> should be a file name ending in .csv containing 'transaction' data to use points on
+- <name of CSV file> should be a file name ending in .csv containing 'transaction' data to use points on

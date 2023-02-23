@@ -1,0 +1,79 @@
+1.
+For my solution, I chose to use Python. One reason for 
+this, to be honest, was because this particular week is 
+very crammed with midterms and projects alike. Python 
+allows people to create programs relatively quickly 
+because if the vast libraries available, as well as the 
+ease of use of dynamic typing. Since Python allows for 
+quick program creation, I was able to fit in this project 
+along with my other responsibilities.
+
+One library I used to make my job easier was the csv 
+library, which provides an easy way to read in data from 
+csv files without having to code a parser by hand. 
+Although doing this by hand wouldn't be extremely involved, 
+having a library to do that work for me is ideal. 
+
+As for tools, the only obvious one that comes to mind 
+is using VSCode for my IDE, which makes it easy to install 
+extensions such as the Python package, which assists with 
+formatting and the use of libraries. I also ran VSCode 
+through Anaconda in order to have an environment with full 
+library access in one convenient location. While doing a 
+project with Python previously in one of my courses at 
+school, my default VSCode environment was having trouble 
+using packages like Numpy and Pyplot, so I launched 
+through Anaconda to resolve this issue.
+
+2.
+One advantage to my solution is that it is relatively 
+short. Because I didn't need to hand code a csv parser, 
+the program is less lengthy and thus likely more readable. 
+A disadvantage to this solution is that I do not see the 
+inner workings of packages like the csv reader. Being 
+familiar with the code one is working with helps to 
+better understand its complexity, and for debugging 
+purposes. However, it is fair to believe that libraries 
+like this are somewhat optimized, so a programmer can 
+usually have an abstract view of imported methods 
+without much worry of things going wrong.
+
+Another disadvantage of using Python more generally 
+is that Python is slower than other languages due to 
+its high memory consumption. When working with large 
+data and large programs, it helps to use a language 
+that manages memory better. For example, Java has 
+garbage collection to free up unused memory, and 
+C allows allocation and freeing of memory directly 
+so programmers can have more control over how 
+memory is used. Because of this, it makes sense 
+to use a language like Java in a commercial 
+setting because no one wants a program that runs 
+slow, time is money. 
+
+3.
+One project that I just completed abour an hour 
+before writing this is a program in Python that 
+performs hierarchical agglomerative clustering on 
+a dataset of 800 Pokemon, clustering by their 
+Euclidean distance. If you asked me what my 
+favorite project was yesterday, this would have 
+been the last thing I would have mentioned. This 
+project was frustrating, confusing, and time 
+consuming. However, after I finally completed it, 
+there was such a sense of reward and fulfillment.
+
+What challenged me, more specifically, was both 
+learning a new concept, and then understanding 
+it enough to actually implement it. Usually 
+when working through an assignment, I'll have 
+a rough idea of how I want to go about solving 
+it, but for this one it seemed like no matter 
+how much I thought about it I couldn't wrap my 
+head around how to work out a solution. Luckily, 
+programming is not a solo task. By communicating 
+through Piazza, my classmates and I are able to 
+bounce ideas off one another which helps in a bind. 
+By learning from my classmates as well as doing 
+research online, I was finally able to produce a 
+working solution which also ran pretty quick. 
